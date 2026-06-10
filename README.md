@@ -12,6 +12,9 @@
 ![](https://streak-stats.demolab.com/?user=mishraadarsh27&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mishraadarsh27&layout=compact&theme=dark)
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=mishraadarsh27&theme=tokyonight)
+
 ## 📈 Activity Graph
 ![](https://github-readme-activity-graph.vercel.app/graph?username=mishraadarsh27&theme=tokyo-night)
 
