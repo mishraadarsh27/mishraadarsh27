@@ -1,5 +1,12 @@
-# 💫 About Me:
-### 🔭 I'm currently working on<br>- Building full-stack web applications and personal portfolio projects.<br><br>### 👯 I'm looking to collaborate on<br>- Open-source projects and creative frontend/backend ideas.<br><br>### 🤝 I'm looking for help with<br>- Advanced Data Structures, Algorithms, and system design.<br><br>### 🌱 I'm currently learning<br>- New frameworks, cloud deployment (AWS/Vercel), and clean coding practices.<br><br>### 💬 Ask me about<br>- JavaScript, React, web development, or basic programming concepts.<br><br>### ⚡ Fun fact<br>- I write code that runs perfectly... on the third try! 🚀<br>
+
+## 👨‍💻 About Me
+
+I'm Adarsh, a Computer Science student who enjoys building projects, learning new technologies, and solving coding problems.
+
+Most of my time goes into Python development, backend engineering, and improving my DSA skills through regular practice. I like turning ideas into working products and experimenting with different technologies to understand how things work behind the scenes.
+
+Currently exploring FastAPI, cloud deployment, and software engineering concepts while working on personal and open-source projects.
+ 🚀<br>
 
 
 ## 🌐 Socials:
