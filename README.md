@@ -6,7 +6,7 @@ I'm Adarsh, a Computer Science student who enjoys building projects, learning ne
 Most of my time goes into Python development, backend engineering, and improving my DSA skills through regular practice. I like turning ideas into working products and experimenting with different technologies to understand how things work behind the scenes.
 
 Currently exploring FastAPI, cloud deployment, and software engineering concepts while working on personal and open-source projects.
- 🚀<br>
+ <br>
 
 
 ## 🌐 Socials:
