@@ -29,7 +29,7 @@ Currently exploring **FastAPI**, **Cloud Deployment**, and **Software Engineerin
 
 <br>
 
-# 💻 Tech Stack:
+#  Tech Stack:
 <p align="center">
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"/>
   <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" alt="FastAPI"/>
@@ -58,15 +58,15 @@ Currently exploring **FastAPI**, **Cloud Deployment**, and **Software Engineerin
 
 # 📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mishraadarsh27&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mishraadarsh27&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="GitHub Stats" onerror="this.src='https://github-readme-stats-pranesh-2005.vercel.app/api?username=mishraadarsh27&show_icons=true&theme=tokyonight&hide_border=true'"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=mishraadarsh27&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=mishraadarsh27&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak" onerror="this.src='https://github-readme-streak-stats.demolab.com?user=mishraadarsh27&theme=tokyonight&hide_border=true'"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mishraadarsh27&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mishraadarsh27&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top Languages" onerror="this.src='https://github-readme-stats-pranesh-2005.vercel.app/api/top-langs/?username=mishraadarsh27&layout=compact&theme=tokyonight&hide_border=true'"/>
 </p>
 
 <br>
