@@ -1,7 +1,7 @@
 <h1 align="center">
   
 <a href="https://github.com/mishraadarsh27">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=38B2AC&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Adarsh;Computer+Science+%26+Engineering+Student;Python+Developer+%7C+Backend+%26+AI+Enthusiast;FastAPI+%E2%80%A2+APIs+%E2%80%A2+AI+%E2%80%A2+DSA;Building+Intelligent+%26+Accessible+Solutions+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=38B2AC&center=true&vCenter=true&width=850&lines=Hi+%F0%9F%91%8B%2C+I'm+Adarsh;Computer+Science+%26+Engineering+Student;Python+Developer+%7C+Backend+%26+AI+Enthusiast;FastAPI+%E2%80%A2+APIs+%E2%80%A2+AI+%E2%80%A2+DSA;Building+Intelligent+%26+Accessible+Solutions+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
 </h1>
