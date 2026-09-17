@@ -6,7 +6,7 @@
 
 </h1>
 
-## 👨‍💻 About Me
+## About Me
 I'm Adarsh, a Computer Science student who enjoys building projects, learning new technologies, and solving coding problems.
 
 Most of my time goes into **Python development**, **backend engineering**, and improving my **DSA skills** through regular practice. I like turning ideas into working products and experimenting with different technologies to understand how things work behind the scenes.
@@ -15,7 +15,7 @@ Currently exploring **FastAPI**, **Cloud Deployment**, and **Software Engineerin
 
 <br>
 
-## 🌐 Connect with Me:
+##  Connect with Me:
 <p align="center">
   <a href="https://instagram.com/i_adarshmishra" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/>
@@ -33,7 +33,7 @@ Currently exploring **FastAPI**, **Cloud Deployment**, and **Software Engineerin
 
 <br>
 
-# 💻 Tech Stack:
+#  Tech Stack:
 <p align="center">
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"/>
   <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" alt="FastAPI"/>
@@ -60,7 +60,7 @@ Currently exploring **FastAPI**, **Cloud Deployment**, and **Software Engineerin
 
 <br>
 
-## 🚀 LeetCode Stats
+## LeetCode Stats
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/i_adarshmishra?theme=dark&font=Karma&ext=activity" alt="LeetCode Stats"/>
 </p>
@@ -69,5 +69,5 @@ Currently exploring **FastAPI**, **Cloud Deployment**, and **Software Engineerin
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=mishraadarsh27&label=Visitors&color=blue&style=for-the-badge" alt="Visitors"/>
   <br>
-  <sub>Proudly created with GPRM ( <a href="https://gprm.itsvg.in">https://gprm.itsvg.in</a> )</sub>
+ 
 </div>
